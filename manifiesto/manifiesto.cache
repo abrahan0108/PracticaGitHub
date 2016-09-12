@@ -1,0 +1,21 @@
+#v1.0
+#Este manifiesto corresponde a mi tarea
+
+CACHE MANIFEST
+index.html
+Contacto.html
+Historia.html
+css/estilos.css
+img/fondo01.jpg
+
+photo/amplificadores.jpg
+photo/audio.jpg
+photo/bateria.jpg
+photo/foto.jpg
+photo/guitarra.jpg
+
+NETWORK:
+php/enviamail.php
+
+
+
